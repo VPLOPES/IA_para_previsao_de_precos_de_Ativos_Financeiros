@@ -1,6 +1,3 @@
-# IA para previsão de preços de Ativos Financeiros
-Repositório com notebook em Python para análise e previsão de ativos usando Machine Learning.
-
 # Projeto de Previsão de Preços de Ativos Financeiros com IA
 
 Este repositório contém um notebook em Python que demonstra um pipeline completo para análise e previsão de preços de ativos financeiros utilizando inteligência artificial e machine learning.
